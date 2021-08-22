@@ -1,0 +1,16 @@
+{
+  "name": "trustit-assessment-test",
+  "version": "0.0.0",
+  "description": "Assessment Test for trustit",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "assessment",
+    "test"
+  ],
+  "author": "Mustafa Mokrani <mokrani.mustafa@gmail.com>",
+  "license": "UNLICENSED"
+}
