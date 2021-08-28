@@ -1,4 +1,4 @@
-import * as array from './01_arrays.js';
+import * as arrays from './01_arrays.js';
 
 function getDefaultArray() {
     return [ 1, 2, 3, 4 ];
